@@ -1,0 +1,6 @@
+int i,n;
+ip(n)
+int a[n];
+REP(i,0,n) {ip(a[i])}
+qs(a,n)
+REP(i,0,n) {p(a[i])}
